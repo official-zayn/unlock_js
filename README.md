@@ -12,7 +12,7 @@ This repository contains a **step-by-step A–Z JavaScript tutorial**, designed 
 ## 🧭 Table of Contents
 
 1. [Introduction to JavaScript](./intro.md)  
-2. Setting Up Your Environment  
+2. [Setting Up Your Environment](./setting_up.md)
 3. Variables  
 4. Data Types  
 5. Operators  
