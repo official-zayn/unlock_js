@@ -1,2 +1,41 @@
-# unlock_js
-A-Z JavaScript Tutorial 
+# 📘 A–Z JavaScript Tutorial
+
+Your complete beginner-friendly guide to learning JavaScript from the ground up — one concept at a time.
+
+---
+
+## 🚀 About This Repository
+This repository contains a **step-by-step A–Z JavaScript tutorial**, designed for beginners, self-learners, students, and anyone who wants a solid foundation in JavaScript.
+
+## 🧭 Table of Contents
+
+1. Introduction to JavaScript  
+2. Setting Up Your Environment  
+3. Variables  
+4. Data Types  
+5. Operators  
+6. Conditionals  
+7. Loops  
+8. Functions  
+9. Arrays  
+10. Objects  
+11. DOM Manipulation  
+12. Events  
+13. Strings & Numbers  
+14. ES6 Features  
+15. Asynchronous JavaScript  
+16. Fetch API & JSON  
+17. Error Handling  
+18. Modules  
+19. Mini Projects  
+20. Final Projects  
+
+*(More topics will be added continuously.)*
+
+---
+
+
+
+
+## 📂 Folder Structure
+
