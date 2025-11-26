@@ -26,9 +26,8 @@ This repository contains a **step-by-step A–Z JavaScript tutorial**, designed 
 15. Asynchronous JavaScript  
 16. Fetch API & JSON  
 17. Error Handling  
-18. Modules  
-19. Mini Projects  
-20. Final Projects  
+18. Modules
+19. Projects
 
 *(More topics will be added continuously.)*
 
