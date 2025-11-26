@@ -5,11 +5,13 @@ Your complete beginner-friendly guide to learning JavaScript from the ground up 
 ---
 
 ## 🚀 About This Repository
-This repository contains a **step-by-step A–Z JavaScript tutorial**, designed for beginners, self-learners, students, and anyone who wants a solid foundation in JavaScript.
+This repository contains a **step-by-step A–Z JavaScript tutorial**, designed for beginners, self-learners, students, and anyone seeking a solid foundation in JavaScript.
+
+---
 
 ## 🧭 Table of Contents
 
-1. Introduction to JavaScript  
+1. [Introduction to JavaScript](./intro.md)  
 2. Setting Up Your Environment  
 3. Variables  
 4. Data Types  
@@ -26,8 +28,8 @@ This repository contains a **step-by-step A–Z JavaScript tutorial**, designed 
 15. Asynchronous JavaScript  
 16. Fetch API & JSON  
 17. Error Handling  
-18. Modules
-19. Projects
+18. Modules  
+19. Projects  
 
 *(More topics will be added continuously.)*
 
