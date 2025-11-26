@@ -33,9 +33,3 @@ This repository contains a **step-by-step A–Z JavaScript tutorial**, designed 
 *(More topics will be added continuously.)*
 
 ---
-
-
-
-
-## 📂 Folder Structure
-
