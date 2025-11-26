@@ -95,7 +95,7 @@ Used in conditions (`if` statements).
 | Operator | Meaning | Example                 |    |       |   |               |
 | -------- | ------- | ----------------------- | -- | ----- | - | ------------- |
 | `&&`     | AND     | `true && false` = false |    |       |   |               |
-| `/|/|`  | OR | `true |   | false` = true |
+| `\|\|`  | OR | `true |   | false` = true |
 | `!`      | NOT     | `!true` = false         |    |       |   |               |
 
 ### Example
