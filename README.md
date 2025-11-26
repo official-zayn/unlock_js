@@ -14,7 +14,7 @@ This repository contains a **step-by-step A–Z JavaScript tutorial**, designed 
 1. [Introduction to JavaScript](./intro.md)  
 2. [Setting Up Your Environment](./setting_up.md)
 3. [Variables](./variables.md)
-4. Data Types  
+4. [Data Types](./data_types.md)
 5. Operators  
 6. Conditionals  
 7. Loops  
