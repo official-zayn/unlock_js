@@ -112,11 +112,11 @@ console.log(age >= 18 && age <= 30); // true
 The `+` operator concatenates (joins) strings.
 
 ```javascript
-let first = "Ultra";
-let second = "Adetech";
+let first = "Zayn";
+let second = "Official";
 
 console.log(first + " " + second);
-// Ultra Adetech
+// Zayn Official
 ```
 
 ---
