@@ -112,7 +112,7 @@ let firstName = "Tunde",
 ### Example 1: Storing a string
 
 ```javascript
-let school = "OdumareTech";
+let school = "Unilorin";
 ```
 
 ### Example 2: Updating a value
@@ -125,7 +125,7 @@ count = 2;
 ### Example 3: Using const
 
 ```javascript
-const website = "https://ultraadetech.com";
+const website = "https://school.com";
 ```
 
 ---
