@@ -36,7 +36,7 @@ This repository contains a **step-by-step A–Z JavaScript tutorial**, designed 
 23. [Higher-Order Functions](./higher_order.md)
 24. [Destructuring & Spread/Rest](./destructuring.md)
 25. [Event Delegation & Advanced Event Handling](./event_delegation.md)
-26. [JSON Deep Dive](./json_deep_dive.md)
+26. [JSON Deep Dive](./json_deep.md)
 27. [Template Rendering / Dynamic HTML](./templates.md)
 28. [Fetch API Advanced Topics](./fetch_advanced.md)
 29. [Promises in Depth & Async Patterns](./async_patterns.md)
