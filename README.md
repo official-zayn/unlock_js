@@ -17,8 +17,8 @@ This repository contains a **step-by-step A–Z JavaScript tutorial**, designed 
 4. [Data Types](./data_types.md)
 5. [Operators](./operators.md)
 6. [Conditionals](./conditionals.md)
-7. Loops  
-8. Functions  
+7. [Loops](./loops.md)  
+8. [Functions](./functions.md)  
 9. Arrays  
 10. Objects  
 11. DOM Manipulation  
