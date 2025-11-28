@@ -29,7 +29,7 @@ This repository contains a **step-by-step A–Z JavaScript tutorial**, designed 
 16. [Fetch API & JSON](./fetch.md)
 17. [Error Handling](./error.md)  
 18. [Modules](./modules.md)
-19. [Projects](./projects)  
+19. [Projects](./projects.md) 
 
 *(More topics will be added continuously.)*
 
