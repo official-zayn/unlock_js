@@ -25,11 +25,11 @@ This repository contains a **step-by-step A–Z JavaScript tutorial**, designed 
 12. [Events](./events.md)
 13. [Strings & Numbers](./strings.md)
 14. [ES6 Features](./es6.md)
-15. Asynchronous JavaScript  
-16. Fetch API & JSON  
-17. Error Handling  
-18. Modules  
-19. Projects  
+15. [Asynchronous JavaScript](./async.md)
+16. [Fetch API & JSON](./fetch.md)
+17. [Error Handling](./error.md)  
+18. [Modules](./modules)
+19. [Projects](./projects)  
 
 *(More topics will be added continuously.)*
 
