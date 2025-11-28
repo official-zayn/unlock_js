@@ -19,12 +19,12 @@ This repository contains a **step-by-step A–Z JavaScript tutorial**, designed 
 6. [Conditionals](./conditionals.md)
 7. [Loops](./loops.md)  
 8. [Functions](./functions.md)  
-9. Arrays  
-10. Objects  
-11. DOM Manipulation  
-12. Events  
-13. Strings & Numbers  
-14. ES6 Features  
+9. [Arrays](./arrays.md)
+10. [Objects](./objects.md) 
+11. [DOM Manipulation](./dom.md)
+12. [Events](./events.md)
+13. [Strings & Numbers](./strings.md)
+14. [ES6 Features](./es6.md)
 15. Asynchronous JavaScript  
 16. Fetch API & JSON  
 17. Error Handling  
