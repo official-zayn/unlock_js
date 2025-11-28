@@ -1,7 +1,7 @@
 # 🗂️ JavaScript Arrays
 
 Arrays are **ordered lists of values**.  
-They allow you to store **multiple items** in a single variable.
+They allow you to store **multiple items** in a single variable and work with them efficiently.
 
 ---
 
@@ -40,14 +40,14 @@ console.log(fruits); // ["apple", "mango", "orange"]
 ### Add items
 
 ```javascript
-fruits.push("grape"); // add at the end
-fruits.unshift("kiwi"); // add at the start
+fruits.push("grape");     // add at the end
+fruits.unshift("kiwi");   // add at the start
 ```
 
 ### Remove items
 
 ```javascript
-fruits.pop(); // removes last
+fruits.pop();   // removes last
 fruits.shift(); // removes first
 ```
 
@@ -60,13 +60,13 @@ fruits.shift(); // removes first
 | `length`                               | Number of items in the array |
 | `indexOf(value)`                       | Returns the index of a value |
 | `includes(value)`                      | Returns true if value exists |
-| `slice(start, end)`                    | Returns a new array (copy)   |
+| `slice(start,end)`                     | Returns a new array (copy)   |
 | `splice(start, deleteCount, items...)` | Add/remove items             |
 
 ### Examples
 
 ```javascript
-console.log(fruits.length); // 4
+console.log(fruits.length);           // 4
 console.log(fruits.indexOf("mango")); // 1
 console.log(fruits.includes("banana")); // false
 ```
@@ -89,12 +89,44 @@ for (let fruit of fruits) {
 
 ---
 
-## 6️⃣ Multi-dimensional Arrays
+## 6️⃣ Array Methods (`forEach`, `map`, `filter`, `reduce`)
+
+### forEach → iterate without returning
+
+```javascript
+fruits.forEach(fruit => console.log(fruit));
+```
+
+### map → transform each element
+
+```javascript
+const numbers = [1, 2, 3, 4];
+const doubled = numbers.map(num => num * 2);
+console.log(doubled); // [2, 4, 6, 8]
+```
+
+### filter → select elements
+
+```javascript
+const evens = numbers.filter(num => num % 2 === 0);
+console.log(evens); // [2, 4]
+```
+
+### reduce → accumulate a single value
+
+```javascript
+const sum = numbers.reduce((total, num) => total + num, 0);
+console.log(sum); // 10
+```
+
+---
+
+## 7️⃣ Multi-dimensional Arrays
 
 Arrays can hold **arrays**.
 
 ```javascript
-let matrix = [
+const matrix = [
   [1, 2],
   [3, 4],
   [5, 6]
@@ -110,16 +142,20 @@ console.log(matrix[1][0]); // 3
 1. Create an array of your 5 favorite movies.
 2. Add one movie to the beginning and one to the end.
 3. Remove the second movie.
-4. Print all movies using a loop.
-5. Check if a specific movie exists using `includes()`.
+4. Print all movies using a loop and using `forEach()`.
+5. Create a numbers array `[1,2,3,4,5]`.
+
+   * Double the numbers using `map()`.
+   * Select even numbers using `filter()`.
+   * Find the sum of all numbers using `reduce()`.
+6. Create a 2D array representing a 3x3 grid and print the center value.
 
 ---
 
 # 🎯 Summary
 
 * Arrays store **multiple values in order**.
-* Access items with **index**.
-* Modify using **push, pop, shift, unshift**.
-* Use loops to process arrays.
-* Arrays can be **multi-dimensional**.
-
+* Access items with **index** and modify with `push`, `pop`, `shift`, `unshift`.
+* Loop through arrays using `for`, `for...of`, or `forEach()`.
+* Use **array methods** for common operations: `map()`, `filter()`, `reduce()`.
+* Arrays can be **multi-dimensional** for structured data.
