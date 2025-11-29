@@ -76,5 +76,5 @@ Choose a project that matches your skill level and start coding!
 - Advanced → Build full-featured applications with modular and asynchronous code.
 
 > Completing these projects will give you a **strong portfolio** and confidence to tackle real-world web development challenges.
-```
+
 
